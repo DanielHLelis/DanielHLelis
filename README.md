@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**DanielHLelis/DanielHLelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm currently an informatics student at CEFET-MG
+  - We study mostly programming related things alongside high school
+- 🏙 I'm from Belo Horizonte/MG - Brazil
+- 💾 I'm currently studying Data Science
+  - And some other things, but this is my main interest right now
+- I don't know (yet) what to put here
 
-Here are some ideas to get you started:
+### Oi 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente sou estudante de informática no CEFET-MG
+  - Basicamente aprendemos coisas relacionadas a programação junto ao ensino médio
+- 🏙 Sou de Beagá (Belo Horizonte/MG)
+- 💾 Atualmente estou estudando ciência de dados
+  - Além de outras coisas, mas isso é o que mais me interessa no momento
+- Eu não tenho muito ideia do que colocar aqui, por enquanto
